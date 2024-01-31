@@ -1,0 +1,136 @@
+Eval breakdown
+MinFilled: 2
+Preferences: 3
+Not paired: 0
+Sections in same slot: 0
+Eval score of full solution is: 5
+Current solution is: 
+Eval-value: 5
+CPSC 433 LEC 01 TU, 930(LEC)
+CPSC 433 LEC 02 MO, 900(LEC)
+SENG 311 LEC 01 MO, 800(LEC)
+CPSC 567 LEC 01 MO, 800(LEC)
+CPSC 433 LEC 01 TUT 01 MO, 800(LAB)
+CPSC 433 LEC 02 LAB 02 TU, 1000(LAB)
+SENG 311 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 567 TUT 01 FR, 1000(LAB)
+Full solutions found: 1
+
+Eval breakdown
+MinFilled: 2
+Preferences: 3
+Not paired: 1
+Sections in same slot: 0
+Eval score of full solution is: 6
+Current solution is: 
+Eval-value: 6
+CPSC 433 LEC 01 TU, 930(LEC)
+CPSC 433 LEC 02 MO, 800(LEC)
+SENG 311 LEC 01 MO, 800(LEC)
+CPSC 567 LEC 01 MO, 900(LEC)
+CPSC 433 LEC 01 TUT 01 MO, 800(LAB)
+CPSC 433 LEC 02 LAB 02 TU, 1000(LAB)
+SENG 311 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 567 TUT 01 FR, 1000(LAB)
+Full solutions found: 2
+
+Eval breakdown
+MinFilled: 2
+Preferences: 3
+Not paired: 1
+Sections in same slot: 0
+Eval score of full solution is: 6
+Current solution is: 
+Eval-value: 6
+CPSC 433 LEC 01 MO, 900(LEC)
+CPSC 433 LEC 02 MO, 800(LEC)
+SENG 311 LEC 01 MO, 800(LEC)
+CPSC 567 LEC 01 TU, 930(LEC)
+CPSC 433 LEC 01 TUT 01 MO, 800(LAB)
+CPSC 433 LEC 02 LAB 02 TU, 1000(LAB)
+SENG 311 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 567 TUT 01 FR, 1000(LAB)
+Full solutions found: 3
+
+Eval breakdown
+MinFilled: 0
+Preferences: 0
+Not paired: 0
+Sections in same slot: 1
+Eval score of full solution is: 1
+Current solution is: 
+Eval-value: 1
+CPSC 433 LEC 01 MO, 900(LEC)
+CPSC 433 LEC 02 MO, 900(LEC)
+SENG 311 LEC 01 MO, 800(LEC)
+CPSC 567 LEC 01 MO, 800(LEC)
+CPSC 433 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 433 LEC 02 LAB 02 TU, 1000(LAB)
+SENG 311 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 567 TUT 01 TU, 1000(LAB)
+Full solutions found: 4
+
+Eval breakdown
+MinFilled: 0
+Preferences: 0
+Not paired: 0
+Sections in same slot: 1
+Eval score of full solution is: 1
+Current solution is: 
+Eval-value: 1
+CPSC 433 LEC 01 MO, 900(LEC)
+CPSC 433 LEC 02 MO, 900(LEC)
+SENG 311 LEC 01 MO, 800(LEC)
+CPSC 567 LEC 01 MO, 800(LEC)
+CPSC 433 LEC 01 TUT 01 TU, 1000(LAB)
+CPSC 433 LEC 02 LAB 02 FR, 1000(LAB)
+SENG 311 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 567 TUT 01 TU, 1000(LAB)
+Full solutions found: 5
+
+Eval breakdown
+MinFilled: 1
+Preferences: 1
+Not paired: 0
+Sections in same slot: 1
+Eval score of full solution is: 3
+Current solution is: 
+Eval-value: 3
+CPSC 433 LEC 01 MO, 900(LEC)
+CPSC 433 LEC 02 MO, 900(LEC)
+SENG 311 LEC 01 MO, 800(LEC)
+CPSC 567 LEC 01 MO, 800(LEC)
+CPSC 433 LEC 01 TUT 01 TU, 1000(LAB)
+CPSC 433 LEC 02 LAB 02 MO, 800(LAB)
+SENG 311 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 567 TUT 01 FR, 1000(LAB)
+Full solutions found: 6
+
+Eval breakdown
+MinFilled: 1
+Preferences: 1
+Not paired: 0
+Sections in same slot: 1
+Eval score of full solution is: 3
+Current solution is: 
+Eval-value: 3
+CPSC 433 LEC 01 MO, 900(LEC)
+CPSC 433 LEC 02 MO, 900(LEC)
+SENG 311 LEC 01 MO, 800(LEC)
+CPSC 567 LEC 01 MO, 800(LEC)
+CPSC 433 LEC 01 TUT 01 TU, 1000(LAB)
+CPSC 433 LEC 02 LAB 02 MO, 800(LAB)
+SENG 311 LEC 01 TUT 01 FR, 1000(LAB)
+CPSC 567 TUT 01 TU, 1000(LAB)
+Full solutions found: 7
+
+Number of valid solutions found: 7
+Eval-value: 1
+CPSC 433 LEC 01		: MO, 9:00
+CPSC 433 LEC 01 TUT 01		: FR, 10:00
+CPSC 433 LEC 02		: MO, 9:00
+CPSC 433 LEC 02 LAB 02		: TU, 10:00
+CPSC 567 LEC 01		: MO, 8:00
+CPSC 567 TUT 01		: TU, 10:00
+SENG 311 LEC 01		: MO, 8:00
+SENG 311 LEC 01 TUT 01		: FR, 10:00

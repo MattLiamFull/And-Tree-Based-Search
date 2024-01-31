@@ -1,0 +1,4 @@
+Invalid preference, ignored
+Invalid preference, ignored
+Invalid preference, ignored
+Slot required for CPSC 813 has labmax of 0. Therefore no valid solution.
